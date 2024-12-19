@@ -1,4 +1,4 @@
-# Agora-Analysis-using-Tableau
+# Agora-CLeaning-Analysis-using-Tableau
 Dataset used Agora dataset to explore the attributes and visualize the patterns using tableau.
 #### Dataset link: https://www.kaggle.com/datasets/philipjames11/dark-net-marketplace-drug-data-agora-20142015/data
 This dataset is used to demonstrate the cleaning of the dataset. 
